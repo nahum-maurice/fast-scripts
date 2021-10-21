@@ -9,7 +9,7 @@ This Turing machine works with 2 symbols and 4 states. It consists of a grid of 
 
 *It's important to notice that the Langton's Ant can also be described as a cellular automata, where the grid is colored back or white and the ant is a square that has one of eight different colors assigned to encode the combination of black-white state and the current direction of motion of the ant.*
 
-**Implentation at simple_ant.py**
+**Implementation at simple_ant.py**
 
 # My Exploration 
 
@@ -24,4 +24,4 @@ Curiosity can lead one to think about what would appear if the where multiple ag
 >If two ants are interacting in the grid, in a configuration such that they are governed by the same rules but having directions such as the direction's vectors can form a rotation matrix, regardless of the configuration, there will be an infinite
 >loop of reiteration of a specific pattern where the emergent mode never happen and the ants keep permutating there positions at each iteration and this is regardless of their distance (apparently). 
 
-**Implemented in rotating_system.py**
+**Implementation in rotating_system.py**
