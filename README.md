@@ -6,6 +6,6 @@ These will be simple scripts that accomplish simple task and render results thro
 
 | No | Directory | Name | Description | Technologies |
 | -- | --------- | ---- | ----------- | ------------ |
-| 1  | Quick_Search | quick_search.py | This script goal is to take a simple word or expression and return the definition of it from different sources. | Python, flask, wikipediaapi |
+| 1  | Quick_Search | quick_search.py | This script's goal is to take a simple word or expression and return the definition of it from different sources. | Python, flask, wikipediaapi |
 | 2  | Langton_Ant | simple_ant.py | A simple implementation of the langton's ant. | Python, numpy, matplotlib |
 | 3  | Langton_Ant |rotating_system_ants.py | An implementation of two langton's ants in a rotation setting. | Python, numpy, matplotlib |
